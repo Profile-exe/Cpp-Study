@@ -71,6 +71,7 @@
 # .idea/modules
 *.iml
 # *.ipr
+CMakeLists.txt
 
 # CMake
 cmake-build-*/
